@@ -37,10 +37,3 @@ Classification accuracies of Houston dataset:
 
 OA:79.51, AA: 63.64, Kappa: 65.81
 
-## Citation
-
-
-
-## Contact
-
-For questions, please contact: 
